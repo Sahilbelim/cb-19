@@ -13,7 +13,6 @@ void main()
 
 
 
-
     printf("\n first number is ");
     if(f_num==1)
     {
