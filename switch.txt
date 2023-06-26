@@ -1,0 +1,18 @@
+syntax
+-----------------
+switch (temp)
+{
+    case 1:
+        printf
+        // line of codes
+    break;
+
+    case 2:
+        printf 
+        // lines of code
+    break;
+
+    default:
+    //lines of code
+    break;
+}

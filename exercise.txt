@@ -6,3 +6,43 @@ https://www.nursingcenter.com/getattachment/c5868853-d6da-4f97-81d3-8a2c50303d91
 https://www.cdc.gov/healthyweight/images/assessing/bmi-adult-fb-600x315.jpg?_=07167
 
 ------------------------------------------------------------------------------------------------
+
+write a program to findout whether given year is leap year or not ( using if else )
+
+write a program to findout whether given letter is vowel or not   with switch case
+
+-----------------------------------------------------------------------------------------------------------
+
+write a program to findout largest cyliender's volume from 3 cyliender dimensions using nested decision making statement 
+
+
+
+
+12) Write a program to display zodiac symbol & given zodiac sign from given birth day and month as per following criteria.
+https://in.pinterest.com/pin/81698180718875314/
+
+
+1] Write a programe to findout how many days a month has accpect month from user 
+
+2] Write a programe to findout income tax based on given condition take monthly income as input 
+yearly income     tax rate
+<3,00,000         5%  
+
+>=3,00,000
+<5,00,000         10%  
+
+>=5,00,000
+<8,00,000         20%
+
+>=8,00,000        30%  
+z
+3] Write a C program to calculate final electricity bill based upon below given criteria. take monthly electricity unit from user as input. 
+units           price  per unit 
+<100            1
+>100 & <200     2 
+>200 & <300     3
+>300 & <400     4
+>400            5
+also calculate 5% percentage energy charge on total bill amount & display total amount 
+
+
