@@ -11,7 +11,13 @@ write a program to findout whether given year is leap year or not ( using if els
 
 write a program to findout whether given letter is vowel or not   with switch case
 
------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------
+------------------------------ 27 / 06 / 2023 ----------------------------
+
+write a program to  findout large area of three triangle 
+
+
+-----------------------------------------------------------------------
 
 write a program to findout largest cyliender's volume from 3 cyliender dimensions using nested decision making statement 
 

@@ -2,13 +2,13 @@
 #include<stdio.h>
 void main ()
 {
-    int year,i;
+    int year,miniyear;
 
     printf("Enter year");
     scanf("%d", &year);
-    i = year % 1000;
+    miniyear = year % 1000;
 
-    if(i==0)
+    if (miniyear == 0)
     {
         printf(" year is milliniuor year");
     }
