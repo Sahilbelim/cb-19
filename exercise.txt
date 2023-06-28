@@ -24,8 +24,17 @@ write a program to findout largest cyliender's volume from 3 cyliender dimension
 
 
 
-12) Write a program to display zodiac symbol & given zodiac sign from given birth day and month as per following criteria.
+---------------------------------------------------28/06/2023-------------------------------------------------------------
+
+write a program to findout largest rectangular  's volume from 3 cyliender dimensions using nested decision making statement 
+
+ Write a program to display zodiac symbol & given zodiac sign from given birth day and month as per following criteria.
 https://in.pinterest.com/pin/81698180718875314/
+--------------------------------------------------------------------------------------------------------------
+
+
+
+
 
 
 1] Write a programe to findout how many days a month has accpect month from user 
