@@ -33,6 +33,7 @@ https://in.pinterest.com/pin/81698180718875314/
 --------------------------------------------------------------------------------------------------------------
 
 --------------------------------------------------- 30/ 06 / 2023 --------------------------------
+Write a programe to findout how many days a month has accpect month from user 
 
  Write a programe to findout income tax based on given condition take monthly income as input 
 yearly income     tax rate
@@ -55,7 +56,8 @@ units           price  per unit
 >400            5
 also calculate 5% percentage energy charge on total bill amount & display total amount 
 --------------------------------------------------------------------------------------------------
-Write a programe to findout how many days a month has accpect month from user 
+// write a programe to get month ,day and year frome user check valide or note 
+
 
 
 
