@@ -17,7 +17,15 @@ operator
 >= - greater than equal too
 <= - less than eqaul to
 
-
+ && - and
+ || -or
+ != -not  
+ arithmetic operators
++
+-
+*
+/
+%
 ----------------------------------------------------------------------------
 //what is decision making statements?
 statements in which we check some conditions which can be true or false is called decision making statements

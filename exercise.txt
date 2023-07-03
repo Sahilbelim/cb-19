@@ -60,4 +60,8 @@ also calculate 5% percentage energy charge on total bill amount & display total 
 
 
 
+odd or even 
 
+opsitive nagitive 
+
+check temperature is room temperature or not (temperature in ferenhit)
