@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 void main()
 {
 
@@ -18,4 +19,5 @@ void main()
         printf("b is greater ");
     }
     printf("\ngood byeee......");
+    
 }
