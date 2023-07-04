@@ -65,3 +65,9 @@ odd or even
 opsitive nagitive 
 
 check temperature is room temperature or not (temperature in ferenhit)
+
+print your name 50 times using loop.
+
+print 1 to 100 digit using loop.
+
+printf number start 1 to user given number .
