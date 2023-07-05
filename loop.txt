@@ -25,6 +25,7 @@ there are two types of loop
         exit control loop at least execute once. 
             do while loop 
 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTGv8xOui2CRSZ_3fu5dbg23T-DSBGab_tR27BTNMfwOiV7SFNW4fbLUxMIU9Of_29b6I&usqp=CAU
 -------------------------------------------------------
 while loop 
 in while loop, we check some condition if it is true, then while loop will execute all code between braces {} pair. while loop continue to check condition and execute code as long as condition is true. if condition is false then while loop stop. 
