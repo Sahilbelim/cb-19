@@ -93,3 +93,15 @@ write a programe to print following pattern
 https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
 
 4]2, 1, 3, 4, 7, 11, 18, 29, 47, 76, 123 .... 300. 
+
+1
+22
+333
+4444
+55555
+
+1
+12
+123
+1234
+12345
