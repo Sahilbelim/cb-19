@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main()
 {
-    int i, j,k, temp;
+    int i, j,k, temp,sq;
     temp = 1;
     k = 1;
 
@@ -9,7 +9,8 @@ void main()
     {
         for (j = 1; j <= temp; j++)
         {
-            printf("%d",k);
+            sq = j * j;
+            printf("%d",sq);
            k++;
         }
 

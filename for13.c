@@ -3,14 +3,16 @@
  void  main()
 {
     int i, j,temp;
-    
-    temp = 1;
+    char sy;
 
+    temp = 1;
+    printf("Enter any symbol");
+    scanf("%c", &sy);
     for (i = 1; i <= 5;i++)
     {
         for (j = 1; j <= temp; j++)
         {
-            printf("*");
+            printf("%c",sy);
         }
 
         printf("\n");

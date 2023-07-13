@@ -64,7 +64,7 @@ do while loop
     {
         line 1
         line 2
-        ........
+        ......
     }while(condition);
 
 what is nested loop?

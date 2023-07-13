@@ -10,7 +10,14 @@
     {
         for (j = 1; j <= temp; j++)
         {
-            printf("*");
+            if(j==1 || i==5 || i==j)
+            {
+            printf("%d ",j);
+
+            }
+            else{
+            printf("  ");
+            }
         }
 
         printf("\n");
