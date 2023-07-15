@@ -123,8 +123,9 @@ https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
 
  0, 2,4,6,8,....1000.
 
-https://i1.faceprep.in/fp/articles/img/55984_1580817324.png using any loop.
 
 --------------------------------------> array <-------------------------------
 
 write a program to find area to 5 triangle .
+
+https://i1.faceprep.in/fp/articles/img/55984_1580817324.png using any loop.
