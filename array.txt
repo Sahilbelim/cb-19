@@ -1,0 +1,35 @@
+what is array?
+------------------
+array is special type of variable in which we can store multiple values.
+we can access specific value as well as we can also change specific value in array.
+to change,access any value in array we have to use array name and its  position known as index which start from 0 and ends on size - 1 where size is the size of the array that we must give when we create an array.
+we can change (increse/decrease) size of the array. we must give datatype of the array when we create array. 
+
+how to create array 
+datatype array-name[size];
+
+example 
+int marks[14]
+float weights[7]
+
+how to store value into array 
+--------------------------------------
+example 
+let us store first subject marks 
+scanf("%d",&marks[0]);
+
+let us display first subject marks 
+printf("first subject mark = %d",marks[0])
+
+how to change variable's value 
+marks[0] = 100; 
+
+we can use variable of integer type to give index in all above example 
+for example 
+int index = 0;
+printf("first subject mark = %d",marks[index])
+
+
+there are mainly two type of array 
+single dimensional array 
+two dimensional array
