@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-    char letters[24];
+    char letters[24],name1[24],name2[24];
 
     printf("Enter value of letter ");
     scanf("%s", &letters);

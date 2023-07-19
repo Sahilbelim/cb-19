@@ -131,3 +131,5 @@ write a program to find area to 5 triangle .
 wriete a program to get  user name age weights .
 
 
+
+
