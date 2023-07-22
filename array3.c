@@ -8,7 +8,5 @@ void main()
 
     printf("letter is => %s\n", letters);
     printf("%s\n", letters);
-    printf("%s\n", letters);
-    printf("%s\n", letters);
-    printf("%s\n", letters);
+    
 }

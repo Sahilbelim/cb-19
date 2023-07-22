@@ -127,7 +127,9 @@ https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
 --------------------------------------> array <-------------------------------
 
 https://i1.faceprep.in/fp/articles/img/55984_1580817324.png using any loop.
+
 write a program to find area to 5 triangle .
+
 wriete a program to get  user name age weights .
 
 

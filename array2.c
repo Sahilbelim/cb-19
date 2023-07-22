@@ -8,13 +8,12 @@ void main()
     for (i = 0; i < 5;i++)
     {
         printf("Enter value of %d cilynder \n",i+1);
-
         printf("Enter value of radius ");
         scanf("%f", &r[i]);
         printf("Enter value of height ");
         scanf("%f", &h[i]);
    }
-   for (i = 0; i < 5;i++)
+   for (i = 0; i <=4 ;i++)
    {
         area[i] = pi * (r[i] * r[i]) * h[i];
         printf("volume of cilunder %d is %.2f\n",(i+1), area[i]);
