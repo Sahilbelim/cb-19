@@ -34,6 +34,7 @@ how to create function
 	void printstar()
 	{
 		printf("\n ****************************************************************** \n");
+		
 	}
 	
 how to call function/run function?
