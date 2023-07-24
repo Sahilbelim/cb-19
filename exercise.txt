@@ -134,4 +134,8 @@ wriete a program to get  user name age weights .
 
 
 
+-----------------------------------------fuction -----------------------------------------
+
+bmi funtion 
+
 
