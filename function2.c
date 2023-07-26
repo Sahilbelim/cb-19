@@ -24,25 +24,25 @@ void main()
 
     printf("name : sahil \n");
 
-    printsymbol(symbol,num);
+    printsymbol('-',num);
 
     printf("age : 18 \n");
 
-    printsymbol(symbol,num);
+    printsymbol('_',num);
 
     printf("name : parth \n");
 
-    printsymbol(symbol,num);
+    printsymbol('*',num);
 
     printf("age : 20\n");
 
-    printsymbol(symbol,num);
+    printsymbol('+',num);
 
     printf("name : janard \n");
 
-    printsymbol(symbol,num);
+    printsymbol('/',num);
 
     printf("age : 21 \n");
 
-    printsymbol(symbol,num);
+    printsymbol('%',num);
 }

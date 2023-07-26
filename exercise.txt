@@ -138,4 +138,14 @@ wriete a program to get  user name age weights .
 
 bmi funtion 
 
+ Write a program to display zodiac symbol & given zodiac sign from given birth day and month as per following criteria.
+https://in.pinterest.com/pin/81698180718875314/
+
+
+power base 
+
+base * base 
+// 0, 1, 3, 6, 10, 15, 21, 28, 36, 45, 55 ... 1000
+
+
 
